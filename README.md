@@ -1,9 +1,9 @@
-# xdos 📡 🚥
+# x7dos 📡 🚥
 DOS mengirimkan beberapa paket (lalu lintas data) yang tidak berguna secara berlebihan.
 
 ## Install 📦
 ```
-git clone https://github.com/x7cyber/xdos
+git clone https://github.com/x7cyber/x7dos
 ```
 ```
 cd xdos
@@ -13,7 +13,7 @@ cd xdos
 ./start
 ```
 ```
-xdos ‹target› ‹port› ‹req› ‹speed-thread›
+x7dos ‹target› ‹port› ‹req› ‹speed-thread›
 ```
 
 ### Happy use & check your buffer 🙂
