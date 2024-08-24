@@ -12,5 +12,8 @@ cd xdos
 ```
 ./start
 ```
+```
+xdos ‹target› ‹port› ‹req› ‹speed-thread›
+```
 ____________________________________________
 ### Happy use & check your buffer 🙂
