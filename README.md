@@ -1,5 +1,5 @@
 # x7dos 📡 🚥
-DOS mengirimkan beberapa paket (lalu lintas data) yang tidak berguna secara berlebihan.
+X7DOS mengirimkan beberapa paket (lalu lintas data) yang tidak berguna secara berlebihan.
 
 ## Install 📦
 ```
