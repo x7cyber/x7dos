@@ -8,6 +8,9 @@ git clone https://github.com/x7cyber/x7dos
 ```
 cd xdos
 ```
+```
+chmod +x start
+```
 ### Run
 ```
 ./start
