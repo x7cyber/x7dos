@@ -13,11 +13,15 @@ cd x7dos
 ```
 chmod +x start
 ```
-### Run
+### Run 🚀
 ```
 ./start
 ```
 ```
 x7dos ‹target› ‹port› ‹req› ‹speed-thread›
 ```
+#
+**[ WARN ]**
+**Use this program wisely and responsibly! The risk is in your own fingers. ⌨️**
+#
 ### Happy use & check your buffer 🙂
